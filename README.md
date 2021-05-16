@@ -25,3 +25,4 @@ LaTeX genereert een hele hoop hulpbestanden die eigenlijk niet in versiebeheer t
 
 Heb je vragen over het gebruik van de sjablonen, kan je me contacteren. Bugs, vragen voor verbeteringen, enz. kan je registreren via de Issues. Je kan zelf ook patches doorsturen via Pull Requests.
 
+
